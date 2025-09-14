@@ -28,6 +28,11 @@ Extra Trees Classifier (ETC)
 
 Gradient Boosting (GBDT)
 
+Bagging Classifier (BgC)
+
+AdaBoost
+
+
 FINAL RESULT
 | Algorithm    | Accuracy | Precision |
 | ------------ | -------- | --------- |
@@ -43,8 +48,5 @@ FINAL RESULT
 | **DT**       | 0.9265   | 0.7311    |
 
 
-Bagging Classifier (BgC)
-
-AdaBoost
 
 Decision Tree (DT)
